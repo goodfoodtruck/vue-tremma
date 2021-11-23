@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="61px" height="61px" viewBox="0 0 61 61" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB" id="filter_1">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+      <feOffset dx="0" dy="2" />
+      <feGaussianBlur stdDeviation="3" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.08627451 0 0 0 0 0.4627451 0 0 0 0 1 0 0 0 0.2 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect0_dropShadow" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect0_dropShadow" result="shape" />
+    </filter>
+    <path d="M13.7075 11.5894L9.11817 6.99999L13.7075 2.41064C14.0975 2.02068 14.0975 1.38846 13.7075 0.998524L13.0015 0.292475C12.6115 -0.0974849 11.9793 -0.0974849 11.5894 0.292475L7 4.88182L2.41062 0.292455C2.02068 -0.0974849 1.38846 -0.0974849 0.998523 0.292455L0.292473 0.998524C-0.0974875 1.38846 -0.0974875 2.02068 0.292473 2.41064L4.88183 6.99999L0.292473 11.5894C-0.0974875 11.9793 -0.0974875 12.6115 0.292453 13.0015L0.998523 13.7075C1.38846 14.0975 2.02068 14.0975 2.41062 13.7075L7 9.11818L11.5894 13.7075C11.9793 14.0975 12.6115 14.0975 13.0015 13.7075L13.7075 13.0015C14.0975 12.6115 14.0975 11.9793 13.7075 11.5894" transform="translate(3 3)" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Group-8" transform="translate(0.5 0.5)">
+    <path d="M30 60C46.5685 60 60 46.5685 60 30C60 13.4315 46.5685 0 30 0C13.4315 0 0 13.4315 0 30C0 46.5685 13.4315 60 30 60Z" id="Oval" fill="#E62460" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+    <g id="Close" transform="translate(20 20)">
+      <path d="M13.7075 11.5894L9.11817 6.99999L13.7075 2.41064C14.0975 2.02068 14.0975 1.38846 13.7075 0.998524L13.0015 0.292475C12.6115 -0.0974849 11.9793 -0.0974849 11.5894 0.292475L7 4.88182L2.41062 0.292455C2.02068 -0.0974849 1.38846 -0.0974849 0.998523 0.292455L0.292473 0.998524C-0.0974875 1.38846 -0.0974875 2.02068 0.292473 2.41064L4.88183 6.99999L0.292473 11.5894C-0.0974875 11.9793 -0.0974875 12.6115 0.292453 13.0015L0.998523 13.7075C1.38846 14.0975 2.02068 14.0975 2.41062 13.7075L7 9.11818L11.5894 13.7075C11.9793 14.0975 12.6115 14.0975 13.0015 13.7075L13.7075 13.0015C14.0975 12.6115 14.0975 11.9793 13.7075 11.5894" transform="translate(3 3)" id="Mask" fill="#000000" fill-rule="evenodd" stroke="none" />
+      <g clip-path="url(#mask_1)">
+        <g id="COLOR">
+          <path d="M0 0L20 0L20 20L0 20L0 0Z" id="color" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

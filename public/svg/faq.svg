@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="61px" height="61px" viewBox="0 0 61 61" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB" id="filter_1">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+      <feOffset dx="0" dy="2" />
+      <feGaussianBlur stdDeviation="3" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.08627451 0 0 0 0 0.4627451 0 0 0 0 1 0 0 0 0.2 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect0_dropShadow" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect0_dropShadow" result="shape" />
+    </filter>
+  </defs>
+  <g id="Group-10" transform="translate(0.5 0.5)">
+    <g id="Group-8">
+      <path d="M30 60C46.5685 60 60 46.5685 60 30C60 13.4315 46.5685 0 30 0C13.4315 0 0 13.4315 0 30C0 46.5685 13.4315 60 30 60Z" id="Oval" fill="#E62460" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+      <g id="pictos_e╠ê1" transform="translate(22 16)">
+        <path d="M14.7407 12.0706C15.4074 12.0706 16 11.8235 16 10.9412L16 7.48235C16 2.89412 13.6296 0.388235 9.22222 0L9.22222 3.91765C11.1481 4.34118 11.4444 5.85882 11.4444 7.97647L11.4444 8.64706L4.51852 8.64706L4.51852 7.97647C4.51852 5.68235 4.96296 4.30588 6.74074 3.91765L6.74074 0C2.37037 0.388235 0 2.89412 0 7.44706L0 13.5176C0 18.4588 2.77778 21 8 21C12.9259 21 15.8889 18.6353 15.8889 14.1176L15.8889 14.0471L11.4074 14.0471C11.4074 16.0588 10.3704 17.1882 8 17.1882C4.88889 17.1882 4.55556 15.4941 4.55556 13.0588L4.55556 12.0706L14.7407 12.0706Z" transform="translate(0 8)" id="Path" fill="#FFFFFF" stroke="none" />
+        <path d="M5.44928 0.0378788C5.02415 0.0378788 4.63768 0.151515 4.28986 0.30303C4.17391 0.340909 4.09662 0.416667 3.98068 0.454545C3.55556 0.189394 3.09179 1.34572e-15 2.55072 1.34572e-15C1.54589 1.34572e-15 0.695652 0.568182 0.270531 1.36364C0.0772947 1.70455 0 2.08333 0 2.5L0 5L2.55072 5C2.97585 5 3.36232 4.88636 3.71014 4.73485C3.82609 4.69697 3.90338 4.62121 3.98068 4.58333L4.01932 4.58333C4.44444 4.84848 4.90821 5 5.44928 5C6.45411 5 7.30435 4.43182 7.72947 3.63636C7.92271 3.29545 8 2.91667 8 2.5L8 0L5.44928 0L5.44928 0.0378788Z" transform="translate(4 0)" id="Path" fill="#FFFFFF" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>
